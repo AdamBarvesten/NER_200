@@ -6,6 +6,7 @@ It provides the following:
 * Pre-trained weights BioBERT-Base v1.1 (+ PubMED 1M) 
 * The NER corpora from HunFlair converted to a format compatible with BioBERT 
 * Fine-tuned models where Hunflair corpora and BioBERT-Base v1.1 (+ PubMED 1M) has been used
+* Resukts
 * A filestructure and jupyter notebook adapted to be run on Google Colab
 
 ## Background
@@ -21,6 +22,13 @@ Please see the paper and git repository for description of HunFlair
 * [FlairNLP HunFlair](https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR.md)
 
 
-## SETUP
+## Setup
+
+1. Download this repository to your local machine.
+2. Enter your Google Drive and create a folder called NER_200.
+3. Copy the downloaded material and put it in the NER_200 folder.
+4. Download the wanted verision of BioBERT 
+5. ....
+6. ....
 
 

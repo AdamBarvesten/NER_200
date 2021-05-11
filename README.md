@@ -27,7 +27,7 @@ Please see the paper and git repository for description of HunFlair
 1. Download this repository to your local machine.
 2. Enter your Google Drive and create a folder called NER_200.
 3. Copy the downloaded material and put it in the NER_200 folder.
-4. Download the wanted verision of BioBERT [here] (https://github.com/dmis-lab/biobert/blob/master/README.md#download). Our results was given by BioBERT-Base v1.1 (+ PubMED 1M). Please note BioBERT-Large is too large for a free verision of Google Colab
+4. Download the wanted verision of BioBERT [here](https://github.com/dmis-lab/biobert/blob/master/README.md#download). Our results was given by BioBERT-Base v1.1 (+ PubMED 1M). Please note BioBERT-Large is too large for a free verision of Google Colab
 5. Make sure the files are named accordingly with X replaced with correct number (For BioBERT-Base v1.1 (+ PubMed _**1M**_ ) : X = '1000000')
 * bert_config.json 
 * model.ckpt-X.data-00000-of-00001

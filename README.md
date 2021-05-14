@@ -43,14 +43,21 @@ Before you can do any evalutaion or fine tuning you must have thie filestructure
 
 ## Fine tuning
 
-1. 
+***Please note, this may take several hours. The corpora all_chemical and all_disease are too big for the free verision of Google Colab***
+
+1. Run the notebook NER_200.ipynb according to the instructions
+2. Make sure you're configuring the input path to the corpora you wish to fine tune with correctly, as noted in the notebook.
 
 
 ## Evaluating
 
-1. 
-
+1. Aquire a fine tuned model either by creating your own, or dowload one of our pre computed [here](https://drive.google.com/drive/folders/1TReOc9S4134nS1Verkt9jxlds-eFNOyo?usp=sharing).
+2. Put the contents of the folder into the ner_outputs folder.
+3. Run the notebook NER_200.ipynb according to the instructions
 
 ## Contact
 
+[Adam Barvesten](https://www.linkedin.com/in/adam-varg-b-63908389/), ad2626ba-s@student.lu.se
+
+Ola Olde, elt13oo1@student.lu.se
 

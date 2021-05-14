@@ -3,11 +3,11 @@
 This is a repository with material for evaluating the Hunflair NER corpora on BioBERT
 
 It provides the following: 
-* Pre-trained weights BioBERT (We've used BioBERT-Base v1.1 (+ PubMED 1M)) 
-* The NER corpora from HunFlair converted to a format compatible with BioBERT 
-* Fine-tuned models where Hunflair corpora and BioBERT-Base v1.1 (+ PubMED 1M) has been used
-* Results from ... ... 
-* A filestructure and jupyter notebook adapted to be run on Google Colab
+* A filestructure and jupyter notebook adapted to be run on Google Colab.
+* The NER corpora from HunFlair converted to a format compatible with BioBERT.
+* Fine-tuned models where Hunflair corpora and BioBERT-Base v1.1 (+ PubMED 1M) has been used.
+* Evalutations from run models.
+* Instructions on how to do your own NER fine tuning or evaluation.
 
 ## Background
 
@@ -49,5 +49,8 @@ Before you can do any evalutaion or fine tuning you must have thie filestructure
 ## Evaluating
 
 1. 
+
+
+## Contact
 
 
